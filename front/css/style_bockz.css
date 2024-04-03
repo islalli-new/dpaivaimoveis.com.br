@@ -1,0 +1,86 @@
+/*
+  Theme Name: Bockz Paiva Imóveis
+  Author: Bockz.com.br
+*/
+
+/*======================================
+//--//-->   Personalização
+======================================*/
+
+
+/* Cor primaria normal */
+.color-b,
+.navbar-default .dropdown .dropdown-menu .dropdown-item:hover,
+a:hover,
+.section-footer .item-list-a i {
+  color: #ed3237;
+}
+
+.intro .intro-body .price-a,
+.navbar-default .dropdown .dropdown-menu,
+.price-a,
+.card-box-ico,
+.intro-single .title-single-box {
+  border-color: #ed3237
+}
+
+#preloader:before {
+  border-top: 6px solid #ed3237;
+}
+
+.btn.btn-b-n,
+.navbar-default.navbar-trans .nav-link:before,
+.navbar-default.navbar-reduce .nav-link:before,
+.owl-theme .owl-dots .owl-dot.active span,
+.intro .owl-theme .owl-dots .owl-dot.active span,
+.intro .owl-theme .owl-dots .owl-dot:hover span,
+.intro .owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span,
+.card-footer-a,
+.btn.btn-a:hover,
+.pagination-a .pagination .page-item.active .page-link,
+.back-to-top,
+.title-box-d .title-d:after,
+.nav-arrow-b .owl-arrow .owl-nav .owl-prev,
+.nav-arrow-b .owl-arrow .owl-nav .owl-next {
+  background-color: #ed3237;
+}
+
+/* Cor primaria brilhante */
+.btn.btn-b-n:hover,
+.pagination-a .pagination .page-link:hover,
+.pagination-a .pagination .page-link:active,
+.pagination-a .pagination .page-link:focus,
+.pagination-a .pagination .page-item.active .page-link:hover,
+.nav-arrow-b .owl-arrow .owl-nav .owl-next:hover,
+.nav-arrow-b .owl-arrow .owl-nav .owl-prev:hover,
+.nav-arrow-b .owl-arrow .owl-nav .owl-next:hover {
+  background-color: #ff666a;
+}
+
+
+/* Fontes */
+.card-info .card-info-title {
+  font-size: 0.8rem;
+}
+
+.title-c {
+  font-size: 2rem;
+}
+
+
+
+/* Alguns ajustes de formas e etc */
+
+nav .logotipos {
+  margin: -20px 0;
+}
+
+@media only screen and (max-width: 600px) {
+
+#selo25 {
+  display: none;
+}
+
+
+}
